@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/add-image.png</file>
+        <file>icons/convert to pdf.png</file>
+        <file>icons/remove-image.png</file>
+        <file>icons/up-arrow.png</file>
+        <file>icons/down-arrow.png</file>
+        <file>icons/settings.png</file>
+        <file>icons/Settings2.png</file>
+        <file>icons/App_Icon.png</file>
+        <file>icons/originalZoom.png</file>
+        <file>icons/right.png</file>
+        <file>icons/left.png</file>
+        <file>icons/cursors/allCursors.png</file>
+        <file>icons/cursors/vertical.png</file>
+        <file>icons/save.png</file>
+        <file>icons/open.png</file>
+        <file>icons/close.png</file>
+        <file>icons/exit.png</file>
+        <file>icons/adjustSize.png</file>
+        <file>icons/newFile.png</file>
+        <file>icons/info.png</file>
+    </qresource>
+</RCC>
