@@ -539,14 +539,16 @@ void MainWindow::aboutPdfConverter()
     QString msg;
     msg = tr("<h1>" MY_APP_NAME " " VERSION_OF_PDF_CONVERTER "</h1>"
              "<p>" MY_APP_NAME " " VERSION_OF_PDF_CONVERTER
-             " is a multi-platform application that let you edit and export "
-             "images to pdf files."
+             " is an open source cross-platform application that can be used "
+             "for editing and exporting images to pdf. "
              "<br><br><b>" MY_APP_NAME " V" VERSION_OF_PDF_CONVERTER "</b>"
              " is licensed under LGPL v3</p>"
              "<div>Contact details:"
              "<ul><li>Author: Christian C. Mesa.</li>"
              "<li>Author's website: <a href = https://christian-mv.github.io/ >https://christian-mv.github.io/</a></li>"
              "<li>email: <a href = mailto:ing.cmesa@gmail.com> ing.cmesa@gmail.com</a></li>"
+             "<li>GitHub Repository: <a href = https://github.com/christian-mv/kate_pdf_converter >Link</a></li>"
+             "<li>Kate's website: <a href = https://christian-mv.github.io/kate_pdf_converter_v1/kate_website.html >Link</a></li></ul></div>"
              );
 
     QMessageBox::about(this, tr("Pdf converter V. ")+VERSION_OF_PDF_CONVERTER, msg);
